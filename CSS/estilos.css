@@ -4,25 +4,62 @@ body
     color: rgb(41, 8, 8);
     text-align: center;
     font-family:'Times New Roman', Times, serif;
-    font-size: 38px;
-     ;
+    font-size: 30px;
+     
 }
+#htitle
+{
+    box-shadow: 0px 2px 20px 0px rgb(41, 8, 8) ; 
+    width: 95%;
+    text-align: center;
+    margin: 0 auto;
+    background-color: #ffffff;
+    padding: 1em;
+    border: 2px solid rgb(41, 8, 8);
+    
 
+}
 #container1
 {
+    
     width: 70%;
-    padding: 1em;
+    padding: 0.5em;
     text-align: left;
-    border: 1px solid rgb(41, 8, 8);
-    margin: 0 auto;
+    border: 2px solid rgb(41, 8, 8);
+    margin: auto;
+    margin-top: 2em;
+    
+    
 }
 
 #container1 h1
 {
     font-size: 38px;
 }
+
 #container1 p
 {
     font-size: 26px;
 }
 
+#cabecera
+{
+    background:rgb(41, 8, 8);
+    box-shadow: 0px 2px 20px 0px rgb(41, 8, 8) ;
+    color: #d5d0d0;
+    font-weight: bold;
+    margin: 0;
+    padding: 1em;
+}
+
+#cabecera #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+}
+
+#post
+{
+    text-align: justify;
+    padding: 0.5em;
+}
