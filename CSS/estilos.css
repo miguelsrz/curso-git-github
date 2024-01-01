@@ -83,6 +83,16 @@ body
     padding: 0.5em;
 }
 
+#post img
+{
+    display: block;
+    padding: .5em;
+    margin: 0 auto;
+    width: 50%;
+    box-shadow: 0px 2px 20px 0px #a6a1a1 ; 
+
+}
+
 #footer
 {
     text-align: center;
