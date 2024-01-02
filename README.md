@@ -7,3 +7,5 @@ Repositorio designado para el [curso profesional de Git y Github.](https://platz
 ## HISTORIA DE MI VIDA
 
 La **pagina web** usa elementos basicos de HTML y CSS. Usado durante el curso para aprender funcionalidades de Git y GitHub, a su vez, aprendiendo sintaxis basica de los lenguajes de programacion.
+
+AJASKJSAKJASKSJAKJKJAK
